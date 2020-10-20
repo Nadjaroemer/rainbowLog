@@ -1,0 +1,25 @@
+{
+  "name": "rainbowlog",
+  "version": "1.0.0",
+  "description": "creates a colorful console log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nadjaroemer/rainbowLog.git"
+  },
+  "keywords": [
+    "console",
+    "colour",
+    "color",
+    "rainbow"
+  ],
+  "author": "Nadja Rømer Hesselbjerg nadja.kuti@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nadjaroemer/rainbowLog/issues"
+  },
+  "homepage": "https://github.com/Nadjaroemer/rainbowLog#readme"
+}
